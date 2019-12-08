@@ -7,7 +7,7 @@
 Finally all the dependencies resolved and were successfully added to the classpath.
 
 # Getting started
-1. before launching ide, open console to this foled and run `./gradlew.bat eclipse` or `./gradlew.bat idea`
+1. before launching ide, open console to this folder and run `./gradlew.bat eclipse` or `./gradlew.bat idea`
 2. import the existing project into your ide
 3. create the jboss server for deployment
 4. deploy/run the app and open a browswer to http://localhost:8080/hibernate-7.2.0.GA/index.jsf
